@@ -10,7 +10,7 @@
   "author": "Chris <info@someguy123.com> (Someguy123)",
   "license": "GPL-3.0",
   "dependencies": {
-    "cheerio": "^0.22.0",
+    "cheerio": "^1.0.0",
     "golosjs-lib": "^0.3.7-1",
     "request": "^2.74.0"
   }
